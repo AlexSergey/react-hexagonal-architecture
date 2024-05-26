@@ -10,5 +10,13 @@ export interface IPostViewModel {
 }
 
 export interface IPostsRepository {
-  getAllPosts(): Promise<IPost[]>;
+  getAllPosts(): Promise<IPost[] | undefined>;
+}
+
+export interface IPostsUseCases {
+  fetchPosts(): Promise<void>;
+}
+
+export interface IPostsServices {
+  calculateReadingTime(content: string): number;
 }

@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "dudul"
+    },
+    {
+      "id": 2,
+      "title": "json",
+      "author": "dudul"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "MILKY COFFEE",
+      "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+      "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/a9c06c39-7717-408d-9f79-6f0a396d27e4.jpg",
+      "price": 28000,
+      "rating": 4,
+      "category": "TOBACCO FLAVOUR"
+    },
+    {
+      "id": 2,
+      "title": "HONEY CHOCOLATE",
+      "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+      "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/9771e386-993c-4376-b960-af4656773df9.jpg",
+      "price": 28000,
+      "rating": 4.8,
+      "category": "TOBACCO FLAVOUR"
+    },
+    {
+      "id": 3,
+      "title": "SWEET DURIAN",
+      "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+      "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/d31bd2b1-66a5-4b90-8cd9-b0dec8f5cd92.jpg",
+      "price": 28000,
+      "rating": 3.6,
+      "category": "TOBACCO FLAVOUR"
+    },
+    {
+      "id": 4,
+      "title": "GAYO WHISKEY",
+      "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+      "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/487d15b6-faf6-4b01-8c2d-1e801964b45b.jpg",
+      "price": 30000,
+      "rating": 5,
+      "category": "TOBACCO FLAVOUR"
+    },
+    {
+      "id": 5,
+      "title": "GAYO CREAMY COFFEE",
+      "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+      "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/4ed4722d-f9cc-46f6-be53-b06cfe0c3ae8.jpg",
+      "price": 30000,
+      "rating": 4.3,
+      "category": "TOBACCO FLAVOUR"
+    },
+    {
+      "id": 6,
+      "title": "GAYO BUTTER MILKY",
+      "description": "KOBAK FLAVOUR PREMIUM , kemasan 50gr sudah termasuk kertas papir kemasan menggunakan standing pouch zipper kedap udara dan di lapisi almunium foil,sehingga bisa buka tutup dan praktis di bawa.",
+      "img": "https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2020/12/6/7228d3ba-89a6-4903-aa05-3263c82d741d.jpg",
+      "price": 30000,
+      "rating": 4.5,
+      "category": "TOBACCO FLAVOUR"
+    },
+    {
+      "id": 7,
+      "title": "ARABICA HONEY PROCESS",
+      "description": "COFFEE PREMIUM, Kopi biji arabica ciwidey honey process 150gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://s0.bukalapak.com/img/0717394133/large/IMG_20180922_121715_scaled.jpg",
+      "price": 50000,
+      "rating": 4.9,
+      "category": "COFFEE"
+    },
+    {
+      "id": 8,
+      "title": "ARABICA WINE COFFE",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Wine 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://cf.shopee.co.id/file/c7da3dfb011d200fea58a1085088e018",
+      "price": 43000,
+      "rating": 4.4,
+      "category": "COFFEE"
+    },
+    {
+      "id": 9,
+      "title": "ARABICA FULL WASH",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://cf.shopee.co.id/file/c12cb31432980d30479cb34d90f6fc52",
+      "price": 43000,
+      "rating": 4.7,
+      "category": "COFFEE"
+    },
+    {
+      "id": 10,
+      "title": "ARABICA HONNEY",
+      "description": "COFFEE PREMIUM, Kopi biji arabica Full Wash 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Proses : Honey Process, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://cf.shopee.co.id/file/3f204493d613c3d6dcf24e272aa8d64d",
+      "price": 43000,
+      "rating": 4.5,
+      "category": "COFFEE"
+    },
+    {
+      "id": 11,
+      "title": "NATURAL COFFE",
+      "description": "COFFEE PREMIUM, Kopi biji arabica 100gr roastbean, Kopi yang kami jual masih keadaan biji (belum di giling menjadi bubuk), Spesies : Arabica, Varietas : Multi Varietas, Ketinggian : 1.200 - 1.400 MDPL, Roast level : Medium, Tasting Notes : Bright Acid , Sweet like Sugar Cane , Medium Body , Clean after tast",
+      "img": "https://cf.shopee.co.id/file/d75a3a85be5b2fb1b2abcccc3f7c306c",
+      "price": 43000,
+      "rating": 5,
+      "category": "COFFEE"
+    }
+  ],
+  "categories": [
+    "TOBACCO FLAVOUR",
+    "COFFEE"
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

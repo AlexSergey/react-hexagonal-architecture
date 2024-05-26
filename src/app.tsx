@@ -1,14 +1,24 @@
 import { FC } from 'react';
+import { Provider } from 'react-redux';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
+import { store } from './api/redux/store';
 import { BlogComponent } from './containers/blog/blog.component';
-import { DIContext, di } from './di-container';
+import { LoggerComponent } from './containers/logger/logger.component';
+import { ToastManager } from './containers/toast-manager/toast-manager';
 
 export const App: FC = () => {
   return (
-    <div>
-      <DIContext.Provider value={di}>
-        <BlogComponent />
-      </DIContext.Provider>
-    </div>
+    <ToastManager>
+      <Provider store={store}>
+        <LoggerComponent>
+          <BrowserRouter>
+            <Routes>
+              <Route element={<BlogComponent />} path="/" />
+            </Routes>
+          </BrowserRouter>
+        </LoggerComponent>
+      </Provider>
+    </ToastManager>
   );
 };

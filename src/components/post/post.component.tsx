@@ -1,6 +1,6 @@
 import { FC } from 'react';
 
-import { IPostViewModel } from '../../features/posts';
+import { IPostViewModel } from '../../api/features/posts';
 
 export const Post: FC<IPostViewModel> = ({ contentSnippet, readingTime, title }) => {
   return (

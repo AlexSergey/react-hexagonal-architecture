@@ -1,7 +1,7 @@
 import React from 'react';
 
+import { usePosts } from '../../api/framework/posts/posts.hook';
 import { Post } from '../../components/post/post.component';
-import { usePosts } from '../../hooks/posts.hook';
 
 export const BlogComponent: React.FC = () => {
   const posts = usePosts();

@@ -1,0 +1,2 @@
+export const LOGGER_USE_CASES = 'LOGGER_USE_CASES';
+export const LOGGER_SERVICES = 'LOGGER_SERVICES';
