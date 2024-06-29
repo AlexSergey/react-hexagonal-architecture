@@ -25,7 +25,9 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "2.2.3",
+    "dot-prop": "9.0.0",
     "eventemitter3": "5.0.1",
+    "fast-copy": "3.0.2",
     "inversify": "6.0.2",
     "logrock": "3.3.0",
     "react": "18.3.1",
